@@ -8,7 +8,6 @@ Hi everyone! My name is Stanislav and I'm a researcher scientist, Ph.D. in mathe
 
 * 🌍  I'm based in Sumy, Ukraine
 * ✉️  You can contact me at [starodubss@gmail.com](mailto:starodubss@gmail.com)
-* 🧠  I'm learning JS, React
 
 ### Skills
 
