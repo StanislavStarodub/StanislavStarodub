@@ -4,7 +4,7 @@ Hi 👋 My name is Stanislav Starodub
 Front-end developer
 -------------------
 
-Hi everyone! My name is Stanislav, and I'm looking for a job as a junior front-end web developer. I started learning front-end technologies in July 2022. During this time, I learned HTML, CSS, and the basics of JavaScript (there are several projects on GitHub). Now I am deepening my knowledge of JS and improving my English. Over the past two decades, I have solved mathematical problems in theoretical physics using programming. The tasks were implemented in the following environments: Borland Turbo Pascal (90s), Borland Delphi (early 2000s), and MATLAB (recent years). In 2008, I received a Ph.D. in mathematics and physics. I know that I will be helpful in your next, complex, but very interesting project. Thanks for reading this to the end :)
+Hi everyone! My name is Stanislav and I'm a researcher scientist, Ph.D. in mathematics and physics, with more than 20 years of experience in the field of functional programming (I've solved mathematical problems in theoretical physics using programming) and IT support. Currently I am improving my skills by studying UNIX systems (Debian, Red Hat) and DevOps. I love setting things up and making them work! If you need a motivated  support engineer, I will be glad to have the opportunity to discuss mutual prospects.
 
 * 🌍  I'm based in Sumy, Ukraine
 * ✉️  You can contact me at [starodubss@gmail.com](mailto:starodubss@gmail.com)
