@@ -20,7 +20,7 @@ Hi everyone! My name is Stanislav and I'm a researcher scientist, Ph.D. in mathe
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="Python.svg" alt="Python" width="50" height="50"/>
+  <img src="[Python.svg](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)" alt="Python" width="50" height="50"/>
 </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
