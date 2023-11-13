@@ -1,10 +1,10 @@
 Hi 👋 My name is Stanislav Starodub
 ===================================
 
-Front-end developer
+DevOps engineer
 -------------------
 
-Hi everyone! My name is Stanislav and I'm a researcher scientist, Ph.D. in mathematics and physics, with more than 20 years of experience in the field of functional programming (I've solved mathematical problems in theoretical physics using programming) and IT support. Currently I am improving my skills by studying UNIX systems (Debian, Red Hat) and DevOps. I love setting things up and making them work! If you need a motivated  support engineer, I will be glad to have the opportunity to discuss mutual prospects.
+I'm a researcher scientist, Ph.D. in mathematics and physics, with more than 20 years of experience in the field of functional programming (I've solved mathematical problems in theoretical physics using programming) and IT support. Currently I am improving my skills by studying UNIX systems (Debian, Red Hat) and DevOps. I love setting things up and making them work! If you need a motivated  support engineer, I will be glad to have the opportunity to discuss mutual prospects.
 
 * 🌍  I'm based in Sumy, Ukraine
 * ✉️  You can contact me at [starodubss@gmail.com](mailto:starodubss@gmail.com)
@@ -20,7 +20,7 @@ Hi everyone! My name is Stanislav and I'm a researcher scientist, Ph.D. in mathe
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="[Python.svg](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png)" alt="Python" width="50" height="50"/>
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="50" height="50"/>
 </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
@@ -29,7 +29,7 @@ Hi everyone! My name is Stanislav and I'm a researcher scientist, Ph.D. in mathe
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
 </a>
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-  <img src="javascript-logotip.png" alt="JavaScript" width="40" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/WHATWG_JavaScript_logo.svg/120px-WHATWG_JavaScript_logo.svg.png" alt="JavaScript" width="40" height="50"/>
 </a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
