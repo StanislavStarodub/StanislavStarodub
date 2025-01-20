@@ -4,7 +4,12 @@ Hi 👋 My name is Stanislav Starodub
 DevOps engineer
 -------------------
 
-I'm a researcher scientist, Ph.D. in mathematics and physics, with more than 20 years of experience in the field of functional programming (I've solved mathematical problems in theoretical physics using programming) and IT support. Currently I am improving my skills by studying UNIX systems (Debian, Red Hat) and DevOps. I love setting things up and making them work! If you need a motivated  support engineer, I will be glad to have the opportunity to discuss mutual prospects.
+Results-driven professional transitioning from a successful 20+ year research career (Ph.D. in Physics and Mathematics) to a dedicated System Administrator role. 
+
+Bringing strong analytical skills, a detail-oriented approach, and a passion for technology to the IT field. Expertise in Linux system administration, specializing in RHEL (LAMP stack), combined with proficiency in Bash and Python scripting for automation and server-side solutions.
+
+Eager to contribute to a dynamic team and tackle complex technical challenges. Seeking opportunities in Linux system administration.
+#Linux #RHEL #LAMP #Bash #Python #SystemAdministration #Automation
 
 * 🌍  I'm based in Sumy, Ukraine
 * ✉️  You can contact me at [starodubss@gmail.com](mailto:starodubss@gmail.com)
