@@ -1,7 +1,7 @@
 Hi 👋 My name is Stanislav Starodub
 ===================================
 
-DevOps engineer
+Linux system administrator
 -------------------
 
 Results-driven professional transitioning from a successful 20+ year research career (Ph.D. in Physics and Mathematics) to a dedicated System Administrator role. 
